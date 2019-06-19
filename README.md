@@ -1,6 +1,6 @@
 # Malaria Detection Using Deep Learning
 
-Detection of malaria from raw cell images dataset obtained from U.S. National Library of Medicine (https://ceb.nlm.nih.gov/repositories/malaria-datasets/).
+Detection of malaria from raw cell images dataset obtained from the U.S. National Library of Medicine (https://ceb.nlm.nih.gov/repositories/malaria-datasets/).
 
 Preview of a cell image:
 

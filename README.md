@@ -1,4 +1,4 @@
-# Malaria-Detection-Using-Deep-Learning
+# Malaria Detection Using Deep Learning
 
 Detection of malaria from raw cell images dataset obtained from U.S. National Library of Medicine.
 Preview of the cell image:
@@ -6,6 +6,7 @@ Preview of the cell image:
 
 
 Trying through multiple model architectures, I was able to get over 95% accuracy with validation split of 30% using following architecute. 
+I have used a simple Convolutional Network with Dropout of 50% after each Fully Connected Layer.
 
 
 

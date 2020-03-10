@@ -6,7 +6,7 @@ Preview of a cell image:
 
 ![](cell_img.png)
 
-Trying through multiple model architectures, I was able to get over 95% accuracy with validation split of 30% using following architecute. 
+Trying through multiple model architectures, I was able to get over 95% accuracy with validation split of 30% using following architecture. 
 I have used a simple Convolutional Network with Dropout of 50% after each Fully Connected Layer.
 
 ![](CNNARCH.PNG)
